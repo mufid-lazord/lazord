@@ -8,7 +8,7 @@
    مثلاً: https://lazord-api.onrender.com
    لاختبار محلي: http://localhost:5000
 ============================================= */
-const API_URL = 'https://waasim-2222-lazord-api.onrender.com';
+const API_URL = 'https://mufid-lazord-api.onrender.com';
 
 /* ===== AUTH HELPERS ===== */
 const Auth = {
